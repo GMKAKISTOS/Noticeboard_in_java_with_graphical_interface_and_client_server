@@ -27,7 +27,7 @@ This project implements a noticeboard application in Java featuring a graphical 
 1.  Clone the repository:
 
     ```bash
-    git clone https://github.com/panoschron97/Noticeboard_in_java_with_graphical_interface_and_client_server.git
+    git clone https://github.com/GMKAKISTOS/Noticeboard_in_java_with_graphical_interface_and_client_server.git
     cd Noticeboard_in_java_with_graphical_interface_and_client_server
     ```
 
